@@ -3,3 +3,5 @@
 source /root/.nvm/nvm.sh
 
 nvm install node --latest-npm
+
+npm i -g yarn
